@@ -9,7 +9,7 @@ const urlsToCache = [
   './funciones.js',
   './manifest.webmanifest',
   './sfx/Jump.mp3',
-  './sfx/start.m4a',
+  './sfx/start.mp3',
   './img/1.png',
   './img/2.png',
   './img/3.png',

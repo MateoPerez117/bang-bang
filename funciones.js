@@ -4,7 +4,7 @@ function jugar() {
 		function () {
 			window.location.assign('personaje.html');
 		}, 1200)
-	var sfxStart = new Audio('sfx/start.m4a');
+	var sfxStart = new Audio('sfx/start.mp3');
 	sfxStart.play();
 }
 
@@ -55,7 +55,7 @@ function personaje2() {
 		function () {
 			window.location.assign('personaje2.html');
 		}, 1200)
-	var sfxStart = new Audio('sfx/start.m4a');
+	var sfxStart = new Audio('sfx/start.mp3');
 	sfxStart.play();
 }
 
@@ -70,7 +70,7 @@ function comenzarJuego() {
 		function () {
 			window.location.assign('juego.html');
 		}, 1200)
-	var sfxStart = new Audio('sfx/start.m4a');
+	var sfxStart = new Audio('sfx/start.mp3');
 	sfxStart.play();
 }
 
@@ -199,7 +199,7 @@ function declararEmpate() {
 	setTimeout(function () {
 		window.location.assign('juego.html');
 	}, 1500);
-	var sfxStart = new Audio('sfx/start.m4a');
+	var sfxStart = new Audio('sfx/start.mp3');
 	sfxStart.play();
 }
 
@@ -230,7 +230,7 @@ function ejecutarDisparo1() {
 	setTimeout(function () {
 		window.location.assign('juego.html');
 	}, 1500);
-	var sfxStart = new Audio('sfx/start.m4a');
+	var sfxStart = new Audio('sfx/start.mp3');
 	sfxStart.play();
 }
 
@@ -261,7 +261,7 @@ function ejecutarDisparo2() {
 	setTimeout(function () {
 		window.location.assign('juego.html');
 	}, 1500);
-	var sfxStart = new Audio('sfx/start.m4a');
+	var sfxStart = new Audio('sfx/start.mp3');
 	sfxStart.play();
 }
 
